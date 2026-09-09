@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "filename" : "PICT0000.jpg",
+    "hash" : "PICT0000.jpg:119021",
+    "timestamp" : "2026-09-09T06:32:52Z",
+    "type" : "photo",
+    "url" : "media\/PICT0000.jpg"
+  },
+  {
+    "filename" : "PICT0001.jpg",
+    "hash" : "PICT0001.jpg:92408",
+    "timestamp" : "2026-09-09T06:32:52Z",
+    "type" : "photo",
+    "url" : "media\/PICT0001.jpg"
+  }
+]
